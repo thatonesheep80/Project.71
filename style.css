@@ -1,0 +1,84 @@
+input
+{
+    background: grey
+}
+
+.rest-maindiv
+{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.rest-maindiv img
+{
+    width: 100%;
+}
+
+.rest-maindiv hr
+{
+    width: 230px;
+}
+
+.rest-maindiv h5, .rest-maindiv p
+{
+    margin-left: 20px;
+}
+
+.movie-head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie-head i
+{
+    float: right;
+}
+
+.wn_li
+{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.wn_li h4
+{
+    border-bottom: 3px solid white;
+    padding: 8px;
+}
+
+.wn_li img
+{
+    width: 200px;
+    height: 100px;
+}
+
+.books hr 
+{
+    margin-bottom: 10px;
+}
+
+.modal-content 
+{
+    margin-top: 100px;
+}
+
+.i_modal
+{
+    display: inline-block;
+}
+
+.modal-body
+{
+    text-align: center;
+}
+
+.p_modal
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
